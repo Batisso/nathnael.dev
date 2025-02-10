@@ -1,0 +1,756 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66dc647819b924db4dba0c2b_Vector.svg
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66dc647819b924db4dba0c2b_Vector.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66dc647819b924db4dba0c31_Vector.svg
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66dc647819b924db4dba0c31_Vector.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66dc647819b924db4dba0c3f_Vector arrow.svg
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66dc647819b924db4dba0c3f_Vector arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66dc647919b924db4dba0c85_Vector-w.svg
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66dc647919b924db4dba0c85_Vector-w.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66dc647919b924db4dba0c9c_Vector.svg
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66dc647919b924db4dba0c9c_Vector.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66dd55eda528a79d9b9a7ba6_Logo.svg
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66dd55eda528a79d9b9a7ba6_Logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66dd64ad30ed9bceae388b48_Man Image-p-500.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66dd64ad30ed9bceae388b48_Man Image-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66dd64ad30ed9bceae388b48_Man Image-p-800.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66dd64ad30ed9bceae388b48_Man Image-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66dd64ad30ed9bceae388b48_Man Image.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66dd64ad30ed9bceae388b48_Man Image.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66e83c6d42d7576a3d2f5688_Rectangle 26-p-500.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66e83c6d42d7576a3d2f5688_Rectangle 26-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66e83c6d42d7576a3d2f5688_Rectangle 26.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66e83c6d42d7576a3d2f5688_Rectangle 26.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66e83c6dc0cd049a9136d436_Rectangle 26-1-p-500.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66e83c6dc0cd049a9136d436_Rectangle 26-1-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66e83c6dc0cd049a9136d436_Rectangle 26-1.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66e83c6dc0cd049a9136d436_Rectangle 26-1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66e83c6dc91b5fc3539015fa_Rectangle 26-2-p-500.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66e83c6dc91b5fc3539015fa_Rectangle 26-2-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66e83c6dc91b5fc3539015fa_Rectangle 26-2.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66e83c6dc91b5fc3539015fa_Rectangle 26-2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66e83c6dde2cbfca1ef8712d_Rectangle 26-3-p-500.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66e83c6dde2cbfca1ef8712d_Rectangle 26-3-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66e83c6dde2cbfca1ef8712d_Rectangle 26-3.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66e83c6dde2cbfca1ef8712d_Rectangle 26-3.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66ec8088c216edb9fbcdbec5_Rectangle 21-p-500.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66ec8088c216edb9fbcdbec5_Rectangle 21-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66ec8088c216edb9fbcdbec5_Rectangle 21-p-800.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66ec8088c216edb9fbcdbec5_Rectangle 21-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66ec8088c216edb9fbcdbec5_Rectangle 21.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66ec8088c216edb9fbcdbec5_Rectangle 21.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66ec89eaa9b9cca8c8bd3d66_Rectangle 21 (1)-p-500.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66ec89eaa9b9cca8c8bd3d66_Rectangle 21 (1)-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66ec89eaa9b9cca8c8bd3d66_Rectangle 21 (1)-p-800.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66ec89eaa9b9cca8c8bd3d66_Rectangle 21 (1)-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66ec89eaa9b9cca8c8bd3d66_Rectangle 21 (1).webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66ec89eaa9b9cca8c8bd3d66_Rectangle 21 (1).webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66ec8e1d7925618cdbc83e18_Rectangle 31.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66ec8e1d7925618cdbc83e18_Rectangle 31.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66ec8e1e7925618cdbc83e30_Rectangle 29.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66ec8e1e7925618cdbc83e30_Rectangle 29.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66ec8e1e7925618cdbc83e4c_Rectangle 30.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66ec8e1e7925618cdbc83e4c_Rectangle 30.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66ec8e1e7925618cdbc83e57_left-arrow-black.svg
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66ec8e1e7925618cdbc83e57_left-arrow-black.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66ec8e1e7925618cdbc83e63_left-arrow-white.svg
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66ec8e1e7925618cdbc83e63_left-arrow-white.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66ec8e1e7925618cdbc83e7f_right-arrow-white.svg
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66ec8e1e7925618cdbc83e7f_right-arrow-white.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66ec8e1e7925618cdbc83e90_right-arrow-black (1).svg
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66ec8e1e7925618cdbc83e90_right-arrow-black (1).svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edcd1d001c596c94831ba3_arrow-right-up-line.svg
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edcd1d001c596c94831ba3_arrow-right-up-line.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edcd1d001c596c94831bc1_Vector (1).svg
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edcd1d001c596c94831bc1_Vector (1).svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66eddb1ac246c3620d7b5d41_Rectangle 21 (2)-p-1080.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66eddb1ac246c3620d7b5d41_Rectangle 21 (2)-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66eddb1ac246c3620d7b5d41_Rectangle 21 (2)-p-1600.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66eddb1ac246c3620d7b5d41_Rectangle 21 (2)-p-1600.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66eddb1ac246c3620d7b5d41_Rectangle 21 (2)-p-2000.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66eddb1ac246c3620d7b5d41_Rectangle 21 (2)-p-2000.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66eddb1ac246c3620d7b5d41_Rectangle 21 (2)-p-500.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66eddb1ac246c3620d7b5d41_Rectangle 21 (2)-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66eddb1ac246c3620d7b5d41_Rectangle 21 (2)-p-800.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66eddb1ac246c3620d7b5d41_Rectangle 21 (2)-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66eddb1ac246c3620d7b5d41_Rectangle 21 (2).webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66eddb1ac246c3620d7b5d41_Rectangle 21 (2).webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde662f7d2206ab0d50e6_image 56-3.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde662f7d2206ab0d50e6_image 56-3.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde662f7d2206ab0d50e6_image%252056-3-p-500.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde662f7d2206ab0d50e6_image%2056-3-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde662f7d2206ab0d50e6_image%252056-3-p-800.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde662f7d2206ab0d50e6_image%2056-3-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde672f7d2206ab0d51f5_image 56-4.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde672f7d2206ab0d51f5_image 56-4.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde672f7d2206ab0d51f5_image%252056-4-p-500.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde672f7d2206ab0d51f5_image%2056-4-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde672f7d2206ab0d51f5_image%252056-4-p-800.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde672f7d2206ab0d51f5_image%2056-4-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde672f7d2206ab0d521a_image 56-6.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde672f7d2206ab0d521a_image 56-6.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde672f7d2206ab0d521a_image%252056-6-p-500.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde672f7d2206ab0d521a_image%2056-6-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde672f7d2206ab0d521a_image%252056-6-p-800.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde672f7d2206ab0d521a_image%2056-6-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde672f7d2206ab0d526c_image 56-10.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde672f7d2206ab0d526c_image 56-10.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde672f7d2206ab0d526c_image%252056-10-p-500.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde672f7d2206ab0d526c_image%2056-10-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde672f7d2206ab0d526c_image%252056-10-p-800.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde672f7d2206ab0d526c_image%2056-10-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde672f7d2206ab0d52a2_image 56.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde672f7d2206ab0d52a2_image 56.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde672f7d2206ab0d52a2_image%252056-p-500.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde672f7d2206ab0d52a2_image%2056-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde672f7d2206ab0d52a2_image%252056-p-800.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde672f7d2206ab0d52a2_image%2056-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde682f7d2206ab0d52d0_image 56-8.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde682f7d2206ab0d52d0_image 56-8.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde682f7d2206ab0d52d0_image%252056-8-p-500.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde682f7d2206ab0d52d0_image%2056-8-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde682f7d2206ab0d52d0_image%252056-8-p-800.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde682f7d2206ab0d52d0_image%2056-8-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde682f7d2206ab0d52f0_image 56-9.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde682f7d2206ab0d52f0_image 56-9.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde682f7d2206ab0d52f0_image%252056-9-p-500.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde682f7d2206ab0d52f0_image%2056-9-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde682f7d2206ab0d52f0_image%252056-9-p-800.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde682f7d2206ab0d52f0_image%2056-9-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde682f7d2206ab0d5384_image 56-5.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde682f7d2206ab0d5384_image 56-5.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde682f7d2206ab0d5384_image%252056-5-p-500.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde682f7d2206ab0d5384_image%2056-5-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde682f7d2206ab0d5384_image%252056-5-p-800.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde682f7d2206ab0d5384_image%2056-5-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde692f7d2206ab0d5394_image 56-1.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde692f7d2206ab0d5394_image 56-1.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde692f7d2206ab0d5394_image%252056-1-p-500.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde692f7d2206ab0d5394_image%2056-1-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde692f7d2206ab0d5394_image%252056-1-p-800.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde692f7d2206ab0d5394_image%2056-1-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde692f7d2206ab0d53a9_image 56-7.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde692f7d2206ab0d53a9_image 56-7.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde692f7d2206ab0d53a9_image%252056-7-p-500.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde692f7d2206ab0d53a9_image%2056-7-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66edde692f7d2206ab0d53a9_image%252056-7-p-800.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66edde692f7d2206ab0d53a9_image%2056-7-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66eee1c443461a2e105dbe61_calendar-2-line.svg
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66eee1c443461a2e105dbe61_calendar-2-line.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66eee83744f29b78be77dd04_calendar-minus-01.svg
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66eee83744f29b78be77dd04_calendar-minus-01.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66eee83744f29b78be77dd14_clock.svg
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66eee83744f29b78be77dd14_clock.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66f035de0a2e7a1065d75d60_Favicon_32.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66f035de0a2e7a1065d75d60_Favicon_32.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66f035e19572169c5f2bb490_Favicon_256.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66f035e19572169c5f2bb490_Favicon_256.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66f26ce31deda065f6802864_Rectangle 31.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66f26ce31deda065f6802864_Rectangle 31.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66f26ce3b1f576e81ffb85b7_Frame 50-p-500.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66f26ce3b1f576e81ffb85b7_Frame 50-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66f26ce3b1f576e81ffb85b7_Frame 50-p-800.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66f26ce3b1f576e81ffb85b7_Frame 50-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66f26ce3b1f576e81ffb85b7_Frame 50.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66f26ce3b1f576e81ffb85b7_Frame 50.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/66f26ce3e5e0f6c02084f139_Rectangle 32.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\66f26ce3e5e0f6c02084f139_Rectangle 32.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/css/portfolio-website--murphy.webflow.d5d75117a.css
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\css\portfolio-website--murphy.webflow.d5d75117a.css
+Content Type: text/css
+
+Uri: https://cdn.prod.website-files.com/66dc6345d8e5c096070d8fa6/js/webflow.9af54e86a.js
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dc6345d8e5c096070d8fa6\js\webflow.9af54e86a.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7dd4ea27ebea1f5ea427_Rectangle 22-6-p-500.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7dd4ea27ebea1f5ea427_Rectangle 22-6-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7dd4ea27ebea1f5ea427_Rectangle 22-6-p-800.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7dd4ea27ebea1f5ea427_Rectangle 22-6-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7dd4ea27ebea1f5ea427_Rectangle 22-6.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7dd4ea27ebea1f5ea427_Rectangle 22-6.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f11e8e570e568b40618_Rectangle 21-p-1080.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f11e8e570e568b40618_Rectangle 21-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f11e8e570e568b40618_Rectangle 21-p-1600.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f11e8e570e568b40618_Rectangle 21-p-1600.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f11e8e570e568b40618_Rectangle 21-p-2000.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f11e8e570e568b40618_Rectangle 21-p-2000.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f11e8e570e568b40618_Rectangle 21-p-500.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f11e8e570e568b40618_Rectangle 21-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f11e8e570e568b40618_Rectangle 21-p-800.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f11e8e570e568b40618_Rectangle 21-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f11e8e570e568b40618_Rectangle 21.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f11e8e570e568b40618_Rectangle 21.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f163de86b5508cf1f58_Rectangle 23-p-1080.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f163de86b5508cf1f58_Rectangle 23-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f163de86b5508cf1f58_Rectangle 23-p-1600.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f163de86b5508cf1f58_Rectangle 23-p-1600.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f163de86b5508cf1f58_Rectangle 23-p-500.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f163de86b5508cf1f58_Rectangle 23-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f163de86b5508cf1f58_Rectangle 23-p-800.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f163de86b5508cf1f58_Rectangle 23-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f163de86b5508cf1f58_Rectangle 23.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f163de86b5508cf1f58_Rectangle 23.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f20c19e7dd47dfa1815_Rectangle 14-p-500.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f20c19e7dd47dfa1815_Rectangle 14-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f20c19e7dd47dfa1815_Rectangle 14-p-800.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f20c19e7dd47dfa1815_Rectangle 14-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f20c19e7dd47dfa1815_Rectangle 14.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f20c19e7dd47dfa1815_Rectangle 14.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f26a528a79d9bc08b82_Rectangle 16-p-500.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f26a528a79d9bc08b82_Rectangle 16-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f26a528a79d9bc08b82_Rectangle 16-p-800.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f26a528a79d9bc08b82_Rectangle 16-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f26a528a79d9bc08b82_Rectangle 16.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f26a528a79d9bc08b82_Rectangle 16.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f4b79c3b12d6fcffc2a_Rectangle 22-p-1080.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f4b79c3b12d6fcffc2a_Rectangle 22-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f4b79c3b12d6fcffc2a_Rectangle 22-p-1600.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f4b79c3b12d6fcffc2a_Rectangle 22-p-1600.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f4b79c3b12d6fcffc2a_Rectangle 22-p-500.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f4b79c3b12d6fcffc2a_Rectangle 22-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f4b79c3b12d6fcffc2a_Rectangle 22-p-800.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f4b79c3b12d6fcffc2a_Rectangle 22-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f4b79c3b12d6fcffc2a_Rectangle 22.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f4b79c3b12d6fcffc2a_Rectangle 22.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f536fc2046c11f45779_Rectangle 24-p-500.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f536fc2046c11f45779_Rectangle 24-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f536fc2046c11f45779_Rectangle 24-p-800.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f536fc2046c11f45779_Rectangle 24-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f536fc2046c11f45779_Rectangle 24.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f536fc2046c11f45779_Rectangle 24.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f57c19e7dd47dfa40fb_Rectangle 25-p-500.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f57c19e7dd47dfa40fb_Rectangle 25-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f57c19e7dd47dfa40fb_Rectangle 25-p-800.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f57c19e7dd47dfa40fb_Rectangle 25-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7f57c19e7dd47dfa40fb_Rectangle 25.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7f57c19e7dd47dfa40fb_Rectangle 25.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7ff25feb03b8ceaa4bbe_Rectangle 21-p-500.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7ff25feb03b8ceaa4bbe_Rectangle 21-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7ff25feb03b8ceaa4bbe_Rectangle 21-p-800.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7ff25feb03b8ceaa4bbe_Rectangle 21-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd7ff25feb03b8ceaa4bbe_Rectangle 21.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd7ff25feb03b8ceaa4bbe_Rectangle 21.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd8086d8240ad0704ea6d2_Rectangle 21-1-p-500.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd8086d8240ad0704ea6d2_Rectangle 21-1-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd8086d8240ad0704ea6d2_Rectangle 21-1-p-800.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd8086d8240ad0704ea6d2_Rectangle 21-1-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd8086d8240ad0704ea6d2_Rectangle 21-1.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd8086d8240ad0704ea6d2_Rectangle 21-1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd80d4e8e570e568b5874d_Rectangle 22-4.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd80d4e8e570e568b5874d_Rectangle 22-4.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd8170fe75cc77905a3353_Rectangle 22-2-p-500.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd8170fe75cc77905a3353_Rectangle 22-2-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd8170fe75cc77905a3353_Rectangle 22-2-p-800.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd8170fe75cc77905a3353_Rectangle 22-2-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd8170fe75cc77905a3353_Rectangle 22-2.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd8170fe75cc77905a3353_Rectangle 22-2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd81f8079776ced5d757cc_Rectangle 21-2-p-500.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd81f8079776ced5d757cc_Rectangle 21-2-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd81f8079776ced5d757cc_Rectangle 21-2-p-800.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd81f8079776ced5d757cc_Rectangle 21-2-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd81f8079776ced5d757cc_Rectangle 21-2.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd81f8079776ced5d757cc_Rectangle 21-2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd869bfffe70f35c431c66_image 56-p-500.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd869bfffe70f35c431c66_image 56-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd869bfffe70f35c431c66_image 56-p-800.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd869bfffe70f35c431c66_image 56-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66dd869bfffe70f35c431c66_image 56.png
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66dd869bfffe70f35c431c66_image 56.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6da437bd4e8ea8b9d22_66cb467ae3d0eaf4e5af3286_Rectangle.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6da437bd4e8ea8b9d22_66cb467ae3d0eaf4e5af3286_Rectangle.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6da437bd4e8ea8b9d30_66cb467b33c3524c35f3852e_Rectangle-1.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6da437bd4e8ea8b9d30_66cb467b33c3524c35f3852e_Rectangle-1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6da437bd4e8ea8b9d33_66cb4608dae7c5de18f82646_Rectangle%252021.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6da437bd4e8ea8b9d33_66cb4608dae7c5de18f82646_Rectangle%2021.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6da437bd4e8ea8b9d3e_66d4dcc4c15d3fd6dc491023_Rectangle%252012-9.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6da437bd4e8ea8b9d3e_66d4dcc4c15d3fd6dc491023_Rectangle%2012-9.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6da5dfb43eaea5418f9_66cb4608dae7c5de18f82646_Rectangle%252021.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6da5dfb43eaea5418f9_66cb4608dae7c5de18f82646_Rectangle%2021.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6da5dfb43eaea5418fc_66d4dc798c8cdb3ef2f20227_Rectangle%252012-6.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6da5dfb43eaea5418fc_66d4dc798c8cdb3ef2f20227_Rectangle%2012-6.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6da7d06ad2a416e5175_66cb467ae3d0eaf4e5af3286_Rectangle.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6da7d06ad2a416e5175_66cb467ae3d0eaf4e5af3286_Rectangle.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6da7d06ad2a416e5178_66cb4608dae7c5de18f82646_Rectangle%252021.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6da7d06ad2a416e5178_66cb4608dae7c5de18f82646_Rectangle%2021.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6da7d06ad2a416e5186_66d4dce2f07fbb148e21a18c_Rectangle%252012-10.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6da7d06ad2a416e5186_66d4dce2f07fbb148e21a18c_Rectangle%2012-10.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6da7d06ad2a416e5189_66cb467b33c3524c35f3852e_Rectangle-1.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6da7d06ad2a416e5189_66cb467b33c3524c35f3852e_Rectangle-1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6daa9bfbe08cf94685e_66cb4608dae7c5de18f82646_Rectangle%252021.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6daa9bfbe08cf94685e_66cb4608dae7c5de18f82646_Rectangle%2021.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6daa9bfbe08cf946861_66d4dc93263255696d57c60f_Rectangle%252012-7.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6daa9bfbe08cf946861_66d4dc93263255696d57c60f_Rectangle%2012-7.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6dabf5a30f114e632d9_66cb467ae3d0eaf4e5af3286_Rectangle.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6dabf5a30f114e632d9_66cb467ae3d0eaf4e5af3286_Rectangle.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6dabf5a30f114e632dd_66d4dd06d7eeceb824914d61_Rectangle%252012-11.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6dabf5a30f114e632dd_66d4dd06d7eeceb824914d61_Rectangle%2012-11.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6dabf5a30f114e632ec_66cb4608dae7c5de18f82646_Rectangle%252021.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6dabf5a30f114e632ec_66cb4608dae7c5de18f82646_Rectangle%2021.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6dabf5a30f114e632ef_66cb467b33c3524c35f3852e_Rectangle-1.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6dabf5a30f114e632ef_66cb467b33c3524c35f3852e_Rectangle-1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6dafd5fecee18bb5dff_66d4dcab263255696d57d99a_Rectangle%252012-8.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6dafd5fecee18bb5dff_66d4dcab263255696d57d99a_Rectangle%2012-8.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6dafd5fecee18bb5e02_66cb4608dae7c5de18f82646_Rectangle%252021.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6dafd5fecee18bb5e02_66cb4608dae7c5de18f82646_Rectangle%2021.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6dc3901a7715c6a6a67_66d4dbaff10fc3992b390b89_Rectangle%252012-1.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6dc3901a7715c6a6a67_66d4dbaff10fc3992b390b89_Rectangle%2012-1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6dc43461a2e1054d872_66d4dbd282289fbd16a36dd2_Rectangle%252012-2.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6dc43461a2e1054d872_66d4dbd282289fbd16a36dd2_Rectangle%2012-2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6dc5ace47283a8b248d_66d4dbeb0fb854ac606264a1_Rectangle%252012-3.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6dc5ace47283a8b248d_66d4dbeb0fb854ac606264a1_Rectangle%2012-3.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6dc7f8140e7553aceb1_66d4dbfe33187f526424a5cd_Rectangle%252012-4.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6dc7f8140e7553aceb1_66d4dbfe33187f526424a5cd_Rectangle%2012-4.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6dde508f6bded44534d_66d4dc39f27f67ac93608d3a_Rectangle%252012-5.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6dde508f6bded44534d_66d4dc39f27f67ac93608d3a_Rectangle%2012-5.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/66dd796cc19e7dd47df58975/66eed6dfcadb8c125e193833_66d4db9782289fbd16a346fe_Rectangle%252012.webp
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\66dd796cc19e7dd47df58975\66eed6dfcadb8c125e193833_66d4db9782289fbd16a346fe_Rectangle%2012.webp
+Content Type: image/webp
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=66dc6345d8e5c096070d8fa6
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://nathnaelbatisso.com/
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\index.htm
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/401
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\401.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/404
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\404.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/about-me
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\about-me.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/blogs
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\blogs.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/blogs/code-crafting-mastering-web-development
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\blogs\code-crafting-mastering-web-development.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/blogs/creative-cloud-tools-for-designers-and-developers
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\blogs\creative-cloud-tools-for-designers-and-developers.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/blogs/creative-coding-web-development-techniques
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\blogs\creative-coding-web-development-techniques.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/blogs/design-and-code-a-fusion-of-creativity
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\blogs\design-and-code-a-fusion-of-creativity.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/blogs/design-bytes-graphic-design-essentials
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\blogs\design-bytes-graphic-design-essentials.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/blogs/designers-hub-tips-and-tricks-for-creatives
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\blogs\designers-hub-tips-and-tricks-for-creatives.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/blogs/elevate-your-designs-creative-inspirations
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\blogs\elevate-your-designs-creative-inspirations.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/blogs/email-campaign-success-strategies-and-tips
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\blogs\email-campaign-success-strategies-and-tips.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/blogs/email-marketing-mastery-grow-your-audience
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\blogs\email-marketing-mastery-grow-your-audience.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/blogs/marketing-insights-email-campaign-strategies
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\blogs\marketing-insights-email-campaign-strategies.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/blogs/marketing-magic-effective-email-campaigns
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\blogs\marketing-magic-effective-email-campaigns.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/blogs/mastering-design-insights-for-professionals
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\blogs\mastering-design-insights-for-professionals.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/blogs/the-creative-code-bridging-art-and-tech
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\blogs\the-creative-code-bridging-art-and-tech.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/blogs/web-development-chronicles-tips-and-tricks
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\blogs\web-development-chronicles-tips-and-tricks.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/blogs/web-development-wonders-tutorials-and-more
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\blogs\web-development-wonders-tutorials-and-more.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/contact
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\contact.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/projects
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\projects.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/projects/arcane
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\projects\arcane.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/projects/brander
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\projects\brander.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/projects/futura
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\projects\futura.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/projects/haloid
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\projects\haloid.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/projects/hexium
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\projects\hexium.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/projects/quorra
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\projects\quorra.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/projects/solara
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\projects\solara.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/projects/synergy
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\projects\synergy.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/projects/virago
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\projects\virago.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/projects/zenith
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\projects\zenith.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/services
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\services.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/template-info/changelog
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\template-info\changelog.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/template-info/licences
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\template-info\licences.html
+Content Type: text/html
+
+Uri: https://nathnaelbatisso.com/template-info/style-guide
+File Name: C:\Users\omen\Desktop\POW\nathnaelbatisso.com\template-info\style-guide.html
+Content Type: text/html
+
